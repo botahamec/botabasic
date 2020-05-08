@@ -5,9 +5,9 @@ An implementation of BASIC I wrote as a bit of practice
 ## TODO
 
 - [X] Loop over the lines of a file
-- [ ] Add commands
+- [X] Implement memory
 - [ ] Write a parser
-- [ ] Implement memory
+- [ ] Add commands
 - [ ] Implement commands
 - [ ] Read from a file
 - [ ] Build a CLI
