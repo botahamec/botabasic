@@ -4,7 +4,7 @@ An implementation of BASIC I wrote as a bit of practice
 
 ## TODO
 
-- [ ] Loop over the lines of a file
+- [X] Loop over the lines of a file
 - [ ] Add commands
 - [ ] Write a parser
 - [ ] Implement memory
