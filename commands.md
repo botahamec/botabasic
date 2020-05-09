@@ -40,12 +40,10 @@
 
 * PRINT [string]
 * INPUT [location]
-* TONAT [location] [string]
-* TOINT [location] [string]
-* TOFLOAT [location] [string]
-* TOSTR [location] [var]
+* CONVERT [location] [var]
 
 ### Array Commands
 
-* SLICE [location] [start] [end]
+* SLICE [location] [array] [start] [end]
+* INDEX [location] [array] [index]
 * LEN [location] [array]

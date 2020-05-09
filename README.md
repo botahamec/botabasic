@@ -6,8 +6,10 @@ An implementation of BASIC I wrote as a bit of practice
 
 - [X] Loop over the lines of a file
 - [X] Implement memory
+- [X] Add commands
+- [X] Implement commands
 - [ ] Write a parser
-- [ ] Add commands
-- [ ] Implement commands
 - [ ] Read from a file
 - [ ] Build a CLI
+- [ ] Add literal values
+- [ ] Make it not panic all the time
