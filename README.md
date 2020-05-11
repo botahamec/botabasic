@@ -8,8 +8,8 @@ An implementation of BASIC I wrote as a bit of practice
 - [X] Implement memory
 - [X] Add commands
 - [X] Implement commands
-- [ ] Write a parser
-- [ ] Read from a file
-- [ ] Build a CLI
-- [ ] Add literal values
+- [X] Add literal values
+- [X] Write a parser
+- [X] Read from a file
+- [X] Build a CLI
 - [ ] Make it not panic all the time
